@@ -1,4 +1,8 @@
 body {
    overflow: hidden;
-   background: #000 url(images/butt.gif) no-repeat cover center;
+   background: #000000;
+   background-image: url(images/butt.gif);
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position: center;
 }
