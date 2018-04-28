@@ -2,6 +2,7 @@ body {
    overflow: hidden;
    background: #000000;
    background-image: url(images/buttpole.gif);
+   background-size: cover;
    background-repeat: no-repeat;
    background-position: center;
 }
