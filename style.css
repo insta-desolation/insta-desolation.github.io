@@ -1,11 +1,15 @@
-#myVideo {
-	position: all;
-	repeat: no-repeat;
-	size: 100%;
-	min-width: 100%; 
-	min-height: 100%;
-	
-{
+.section {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+
+}
+
+
 #center {
 	position: absolute;
 	left: 50%;
