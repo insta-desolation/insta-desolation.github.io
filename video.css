@@ -1,7 +1,7 @@
 @media (min-aspect-ratio: 16/9) {
   .fullscreen-bg__video {
     width: auto;
-    height: auto;
+    height: 100%;
   }
 }
 
